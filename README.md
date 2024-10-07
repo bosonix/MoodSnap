@@ -49,6 +49,8 @@ Follow the on-screen instructions to use the emotion detection model.
 
 ### Loss and Accuracy Graphs
 
+The loss and accuracy graphs demonstrate a steady and positive trend throughout the training process. The loss consistently decreased, indicating that the model was effectively learning from the data. Meanwhile, the accuracy steadily increased, showcasing the model's improving ability to classify images correctly. This promising performance suggests that the model is well-tuned and ready for real-world applications.
+
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/298b7ed9-4fb4-4a6e-9a6e-0cf5767ce4f7">
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/9936c425-2b83-44eb-b43f-aff065a70a8f">
 
