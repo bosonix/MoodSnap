@@ -47,7 +47,7 @@ Run the main script:
 
 Follow the on-screen instructions to use the emotion detection model.
 
-### Images
+### Loss and Accuracy Graphs
 
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/298b7ed9-4fb4-4a6e-9a6e-0cf5767ce4f7">
 <img width="404" alt="image" src="https://github.com/user-attachments/assets/9936c425-2b83-44eb-b43f-aff065a70a8f">
