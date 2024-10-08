@@ -59,10 +59,7 @@ The loss and accuracy graphs demonstrate a steady and positive trend throughout 
 Below are examples illustrating the image classification process:
 
 ##### Happy Person Image
-![happydude](https://github.com/user-attachments/assets/5d4f2689-0081-4246-a6da-dc8690930288)
-
-##### Test Image
-<img width="233" alt="Test Image" src="https://github.com/user-attachments/assets/fcf6cc8a-5544-4f4f-a2b0-2128e00a1a05">
+https://github.com/user-attachments/assets/5d4f2689-0081-4246-a6da-dc8690930288
 
 ##### Plotted Version of the Image
 <img width="233" alt="image" src="https://github.com/user-attachments/assets/fcf6cc8a-5544-4f4f-a2b0-2128e00a1a05">
